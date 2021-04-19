@@ -6,9 +6,9 @@ Shared with Maya Miller, Cameron Oglesby and Robert Hellinga for the Duke Data J
 
 ## Data files
 
- - ACS 5-year 2019 data on race, by NC block group
- - 2020 TIGER/Line NC block group shapefile
- - NC block group data with racial demographics and flag for overlapping 1-mile poultry farm buffer
+ - [ACS 5-year 2019 data on race, by NC block group](https://github.com/mtdukes/djl-poultry/blob/main/data/ACSDT5Y2019.B02001_2021-04-19T125758/ACSDT5Y2019.B02001_data_with_overlays_2021-04-19T125752.csv)
+ - [2020 TIGER/Line NC block group shapefile](https://github.com/mtdukes/djl-poultry/tree/main/data/tl_2020_37_bg10)
+ - [NC block group data with racial demographics and flag for overlapping 1-mile poultry farm buffer](https://github.com/mtdukes/djl-poultry/blob/main/data/nc_bg_poultry_1m.csv)
 
 ## Methodology
 
